@@ -1,0 +1,10 @@
+C:\Users\TTT\Desktop\MiniLauncher\bin\Release\MiniLauncher.exe.config
+C:\Users\TTT\Desktop\MiniLauncher\bin\Release\MiniLauncher.exe
+C:\Users\TTT\Desktop\MiniLauncher\bin\Release\MiniLauncher.pdb
+C:\Users\TTT\Desktop\MiniLauncher\obj\Release\MiniLauncher.csprojAssemblyReference.cache
+C:\Users\TTT\Desktop\MiniLauncher\obj\Release\MiniLauncher.Form1.resources
+C:\Users\TTT\Desktop\MiniLauncher\obj\Release\MiniLauncher.Properties.Resources.resources
+C:\Users\TTT\Desktop\MiniLauncher\obj\Release\MiniLauncher.csproj.GenerateResource.cache
+C:\Users\TTT\Desktop\MiniLauncher\obj\Release\MiniLauncher.csproj.CoreCompileInputs.cache
+C:\Users\TTT\Desktop\MiniLauncher\obj\Release\MiniLauncher.exe
+C:\Users\TTT\Desktop\MiniLauncher\obj\Release\MiniLauncher.pdb
